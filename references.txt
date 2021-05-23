@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/25610638/changing-css-padding-left-based-on-screen-resolution - adaptive screen padding for mobile
+Some of the techniques I used such as positioning canvas are ones learnt from my first semester project

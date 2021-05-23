@@ -1,0 +1,61 @@
+html, body {
+	margin: 0;
+	background-color: #212152;
+}
+canvas {
+
+	display: block;
+	width: 100% !IMPORTANT;
+	height: 100% !IMPORTANT;
+}
+h1 {
+	width: 100%;
+	background: #212152;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-size: 70px
+}
+h2 {
+	width: 100%;
+	background: #212152;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-size: 30px;
+	padding-top:25px;
+	padding-bottom: 25px;
+}
+
+p {
+	background-color: white;
+	font-size: 20px;
+	padding: 25px;
+	margin: 0px;
+}
+
+body{
+    padding-left:27%;
+    padding-right:27%; 
+}
+
+@media screen and (max-width: 1400px){
+    body{
+        padding-left: 12.5%;
+        padding-right: 12.5%;
+    }
+}
+
+@media screen and (max-width: 992px){
+    body{
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
+
+details {
+	background-color: white;
+	font-size: 20px;
+	padding: 15px;
+	margin: 10px;
+}
